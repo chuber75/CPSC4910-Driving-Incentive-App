@@ -1,1 +1,1 @@
-CPSC 4910 Driving Intenctive App using HTML, CSS, PHP, and MySQL. The professional skills our team used were triggers and store procedures.
+CPSC 4910 Driving Intenctive App using HTML, CSS, PHP, and MySQL. The professional skills our team used were triggers and store procedures. Our database is no longer up and running, but this is the code we used for the project.
